@@ -1,0 +1,98 @@
+{
+  "todos": [
+    {
+      "id": "afb01be2-759e-4480-a9ec-6ff81a611834",
+      "name": "Nope",
+      "completed": false
+    }
+  ],
+  "utilisateurs": [
+    {
+      "email": "JP@gmail.com",
+      "lastName": "Rafarinlesang",
+      "firstName": "Jeanpierre"
+    },
+    {
+      "email": "Zizou@gmail.com",
+      "lastName": "Zinedine",
+      "firstName": "Zidane"
+    },
+    {
+      "email": "HugoRibera@gmail.com",
+      "lastName": "Ribera",
+      "firstName": "Hugo"
+    },
+    {
+      "email": "gppp@gmail.com",
+      "lastName": "fkjd",
+      "firstName": "jdej",
+      "id_utilisateur": "6bf778ce-a941-4600-8e38-3e541642f1bc"
+    },
+    {
+      "email": "jecomprendspastout@gmail.com",
+      "lastName": "hmmm",
+      "firstName": "bizarre",
+      "id_utilisateur": "8310e9f6-dc98-4015-bdfb-cefd92f9d5ea"
+    },
+    {
+      "email": "putainçamarche@gmail.com",
+      "lastName": "jai rien change putain",
+      "firstName": "jecomprendspastout",
+      "id_utilisateur": "e1350c9c-4971-4b9d-acd8-9c1508b30096"
+    },
+    {
+      "email": "jepensequecestça@gmail.com",
+      "lastName": "hmmm",
+      "firstName": "djshjd",
+      "id_utilisateur": "f77cf82b-bf39-4f6b-b9bd-34af0cc0adf6"
+    },
+    {
+      "email": "nfhej@gmail.com",
+      "lastName": "jfehfjdh",
+      "firstName": "hfsjhsj",
+      "id_utilisateur": "842f0a02-4dee-4a56-86f9-79e5820cbf8b"
+    },
+    {
+      "email": "gjhd@gmail.com",
+      "lastName": "fjkshfd",
+      "firstName": "jfhsjsh",
+      "id_utilisateur": "b0a8caa0-a7cf-44db-95ef-6fb140d26ea0"
+    },
+    {
+      "email": "jkfnfsj@gmail.com",
+      "lastName": "kfskns",
+      "firstName": "hfjhfsjh",
+      "id_utilisateur": "380e1b9e-3a08-4f02-ad4f-647816c8d151"
+    },
+    {
+      "email": "hdjhjz",
+      "lastName": "jfhjfe",
+      "firstName": "jzkj",
+      "id_utilisateur": "bd7d5ae1-3d59-471c-9ab8-09fd3208e913"
+    },
+    {
+      "email": "Jean",
+      "lastName": "bob",
+      "firstName": "Jean",
+      "id_utilisateur": "ee103a73-05ae-4131-a727-19b8320d79f2"
+    }
+  ],
+  "products": [
+    {
+      "title": "ourson",
+      "description": "peluche",
+      "price": 5,
+      "id_product": "9334f08e-8cfe-44df-8c04-ce64339af60f",
+      "quantity": 3
+    }
+  ],
+  "commandes": [
+    {
+      "id_commande": "7661e190-6b99-4caa-9299-5fffd558c211",
+      "id_utilisateur": "b0a8caa0-a7cf-44db-95ef-6fb140d26ea0",
+      "id_product": "9334f08e-8cfe-44df-8c04-ce64339af60f",
+      "quantity": 5,
+      "validation": "true"
+    }
+  ]
+}
